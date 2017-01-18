@@ -22,3 +22,5 @@ If the category is set to a lower priority than what the message relates too the
 image.
 
 Following is an image of the text file the logger produces when using the above code snippets and logging level set to Trace.
+
+https://cloud.githubusercontent.com/assets/7986716/22067719/5a9a464c-dd8a-11e6-91a9-15ee69a2364e.png
